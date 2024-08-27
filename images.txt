@@ -1,2 +1,3 @@
 python:alpine3.19
 centos:centos7
+ubuntu:latest
